@@ -1,0 +1,33 @@
+Feature,Importance
+Temp_Margin,0.80320007
+Actual Current (A),0.04700806
+Actual Voltage (V),0.028928144
+Speed (RPM),0.025855722
+Temperature (°C),0.02493663
+Load_Stress,0.023976455
+Vibration (mm/s),0.022697136
+Voltage_Deviation,0.014927945
+Speed (RPM)_lag3,0.0022373307
+Load %,0.00088573364
+Vibration_ROC,0.0005288626
+Temperature (°C)_lag5,0.00042417907
+Speed (RPM)_lag5,0.00040825093
+Actual Current (A)_lag1,0.00034764476
+Vibration (mm/s)_lag3,0.00027778026
+Temperature (°C)_lag3,0.00027645243
+Temp_ROC,0.00025813287
+Load %_lag3,0.00024997885
+Actual Voltage (V)_lag5,0.00024435332
+Vibration_Trend,0.00023872148
+Speed (RPM)_lag1,0.00023773723
+Temperature (°C)_lag1,0.00022005754
+Actual Current (A)_lag5,0.00021849432
+Temp_Smooth,0.00021594374
+Vibration (mm/s)_lag5,0.0002143143
+Load %_lag1,0.00017380809
+Actual Voltage (V)_lag1,0.00016603139
+Actual Current (A)_lag3,0.00015290936
+Load %_lag5,0.00014892124
+Vibration_Smooth,0.00014277629
+Actual Voltage (V)_lag3,0.00011420601
+Vibration (mm/s)_lag1,8.718441e-05
